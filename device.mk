@@ -256,6 +256,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES_DEBUG += \
     update_engine_client
 
+# WiFi
+PRODUCT_PACKAGES += \
+    android.hardware.wifi-service \
+
 # Vibrator
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.vibrator.service.xiaomi
