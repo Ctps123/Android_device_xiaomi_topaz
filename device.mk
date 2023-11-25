@@ -60,7 +60,7 @@ PRODUCT_PACKAGES += \
     audio.sysbta.default \
     android.hardware.bluetooth.audio-service-system \
     libldacBT_abr \
-    libldacBT_bco \
+    #libldacBT_bco \
     libldacBT_enc
 
 # Boot control
@@ -258,7 +258,7 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # WiFi
 PRODUCT_PACKAGES += \
-    android.hardware.wifi-service \
+    #android.hardware.wifi-service \
 
 # Vibrator
 PRODUCT_PACKAGES += \
