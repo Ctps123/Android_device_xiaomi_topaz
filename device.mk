@@ -60,6 +60,7 @@ PRODUCT_PACKAGES += \
     audio.sysbta.default \
     android.hardware.bluetooth.audio-service-system \
     libldacBT_abr \
+    libldacBT_enc
     #libldacBT_bco \
     libldacBT_enc
 
