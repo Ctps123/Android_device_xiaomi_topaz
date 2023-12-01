@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lmodroid_topaz.mk
+    $(LOCAL_DIR)/lineage_topaz.mk
 
 COMMON_LUNCH_CHOICES := \
-    lmodroid_topaz-eng \
-    lmodroid_topaz-userdebug \
-    lmodroid_topaz-user
+    lineage_topaz-eng \
+    lineage_topaz-userdebug \
+    lineage_topaz-user
